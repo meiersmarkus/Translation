@@ -155,7 +155,7 @@
 	<system:String x:Key="Words.Description">Beschreibung</system:String>
 
 	<system:String x:Key="Help.Text">HILFE</system:String>
-	<system:String x:Key="Help.Add.Drive">LOS GEHT ES~</system:String>
+	<system:String x:Key="Help.Add.Drive">ES GEHT LOS</system:String>
 	<system:String x:Key="Help.ServiceDown">RaiDrive Service wurde angehalten.</system:String>
 	<system:String x:Key="Help.ServiceDown.Press">Drücken, um RaiDrive aufzuwecken.</system:String>
 	<system:String x:Key="Help.InternetDown">Sie scheinen nicht mit dem Internet verbunden zu sein.</system:String>
@@ -210,12 +210,12 @@
 	<system:String x:Key="Message.Backup.BackupTargetFolder">Wählen Sie einen Ordner in dem Dateien gespeichert werden</system:String>
 
 	<!-- from version 1.6.0.416 -->
-	<system:String x:Key="Settings.General.UseDriveIcon">Use the custom icon on a connected drive</system:String>
-	<system:String x:Key="AddDrive.LocalDisk">Local Disk</system:String>
-	<system:String x:Key="AddDrive.FileLock">File Lock</system:String>
-	<system:String x:Key="AddDrive.WritableDrive">Writable Drive</system:String>
-	<system:String x:Key="ToolTip.LocalDisk">Mount like a local disk</system:String>
-	<system:String x:Key="ToolTip.FileLock">WebDAV File Lock</system:String>
-	<system:String x:Key="ToolTip.FileLock2">depends on WebDAV server</system:String>
+	<system:String x:Key="Settings.General.UseDriveIcon">Das benutzerdefinierte Symbol auf einem Laufwerk nutzen</system:String>
+	<system:String x:Key="AddDrive.LocalDisk">Lokales Laufwerk</system:String>
+	<system:String x:Key="AddDrive.FileLock">Datei-Sperre</system:String>
+	<system:String x:Key="AddDrive.WritableDrive">Beschreibbares Laufwerk</system:String>
+	<system:String x:Key="ToolTip.LocalDisk">Wie eine lokale Festplatte einbinden</system:String>
+	<system:String x:Key="ToolTip.FileLock">WebDAV Datei-Sperre</system:String>
+	<system:String x:Key="ToolTip.FileLock2">abhängig vom WebDAV-Server</system:String>
 
 </ResourceDictionary>
